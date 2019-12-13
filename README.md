@@ -2,11 +2,7 @@
 
 A zero-config installer for Psalm (a static analysis tool that’s designed to improve large PHP codebases by identifying both obvious and hard-to-spot bugs)
 
-[![Required: PHP7.2](https://img.shields.io/packagist/php-v/socheatsok78/laravel-psalm-helper)](https://packagist.org/packages/socheatsok78/laravel-psalm-helper)
-
-[![packagis](https://img.shields.io/packagist/v/socheatsok78/laravel-psalm-helper)](https://packagist.org/packages/socheatsok78/laravel-psalm-helper)
-
-[![packagis-download](https://img.shields.io/packagist/dm/socheatsok78/laravel-psalm-helper)](https://packagist.org/packages/socheatsok78/laravel-psalm-helper)
+[![Required: PHP7.2](https://img.shields.io/packagist/php-v/socheatsok78/laravel-psalm-helper)](https://packagist.org/packages/socheatsok78/laravel-psalm-helper) [![packagis](https://img.shields.io/packagist/v/socheatsok78/laravel-psalm-helper)](https://packagist.org/packages/socheatsok78/laravel-psalm-helper) [![packagis-download](https://img.shields.io/packagist/dm/socheatsok78/laravel-psalm-helper)](https://packagist.org/packages/socheatsok78/laravel-psalm-helper)
 
 ## Installaion
 ```bash
