@@ -3,12 +3,27 @@
     "description": "Laravel Psalm Helper",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+        "library",
+        "laravel"
+    ],
     "authors": [
         {
             "name": "Socheat Sok",
             "email": "alex@socheat.net"
         }
     ],
-    "require": {},
-    "require-dev": {}
+    "require": {
+        "php": "^7.2",
+        "laravel/framework": "^6.0"
+    },
+    "require-dev": {
+        "vimeo/psalm": "^3.7",
+        "psalm/plugin-laravel": "^1.0"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    }
 }
