@@ -15,6 +15,9 @@ Add the following script to `composer.json`:
     "psalm": [
         "vendor/bin/psalm --show-info=false"
     ],
+    "psalm:info": [
+        "vendor/bin/psalm --show-info=true"
+    ],
     "psalm:dry-run": [
         "vendor/bin/psalm --alter --issues=InvalidReturnType,InvalidNullableReturnType --dry-run"
     ],
