@@ -1,0 +1,14 @@
+{
+    "name": "socheatsok78/laravel-psalm-helper",
+    "description": "Laravel Psalm Helper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Socheat Sok",
+            "email": "alex@socheat.net"
+        }
+    ],
+    "require": {},
+    "require-dev": {}
+}
