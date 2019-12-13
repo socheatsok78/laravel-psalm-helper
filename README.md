@@ -9,6 +9,16 @@ A zero-config installer for Psalm (a static analysis tool that’s designed to i
 composer require --dev socheatsok78/laravel-psalm-helper
 ```
 
+Add the following script to `composer.json`:
+```json
+"scripts": {
+    "psalm": [
+        "vendor/bin/psalm --show-info=false"
+    ]
+}
+```
+Then later you can just run `composer run psalm`
+
 ### Usage
 
 Add a `psalm.xml` config:
