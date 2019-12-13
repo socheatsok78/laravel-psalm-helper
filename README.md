@@ -19,8 +19,11 @@ where `config_level` represents how strict you want Psalm to be. `1` is the stri
 
 Example:
 ```console
-$ ./vendor/bin/psalm --init src 3
+$ ./vendor/bin/psalm --init
 Config file created successfully. Please re-run psalm.
+
+$ ./vendor/bin/psalm-plugin enable psalm/plugin-laravel
+[OK] Plugin enabled
 ```
 
 Then run Psalm:
