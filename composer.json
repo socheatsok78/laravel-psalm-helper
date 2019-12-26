@@ -1,11 +1,12 @@
 {
     "name": "socheatsok78/laravel-psalm-helper",
     "description": "Laravel Psalm Helper",
-    "type": "library",
+    "type": "metapackage",
     "license": "MIT",
     "keywords": [
-        "library",
-        "laravel"
+        "laravel",
+        "psalm",
+        "static-analysis"
     ],
     "authors": [
         {
